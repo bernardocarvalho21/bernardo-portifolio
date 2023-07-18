@@ -122,31 +122,32 @@ body {
     .cabecalho__menu {
         justify-content: center;
         padding: 2%;
-        gap: 50px;
+        gap: 20px;
     }
 
     .icone {
         display: flex;
         justify-content:center;
-        height: 30%;
-        width: 30%;
+        height: 20%;
+        width: 20%;
         text-decoration: none;
     }
 
     .iconeemail {
-        height: 10%;
-        width: 10%;
+        height: 3%;
+        width: 3%;
         font-size: 1.5rem;
         color: white;
 
     }
 
     .foto {
-        width: 100%;
+        width: 50%;
     }
 
     .apresentacao__links__link {
         border: 2px solid ;
         margin: 2% 35% 0% 30%;
 
+}
 }
