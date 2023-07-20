@@ -19,4 +19,4 @@ Foi feito o meu portofólio, visando em prática com HTML e CSS.
 - ``CSS``
 
   ## 📁 Acesso ao projeto
-Você pode acessar os arquivos do projeto clicando [aqui](https://https://github.com/bernardocarvalho21/bernardo-portifolio).
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/bernardocarvalho21/bernardo-portifolio).
